@@ -1,6 +1,3 @@
-
----
-
 # Welcome to Technocraphy BD 🌟
 
 Technocraphy BD (TBD) is a STEAM Education and Research Center in Bangladesh. 
