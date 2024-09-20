@@ -1,5 +1,23 @@
 # Welcome to Technocraphy BD 🌟
 
+
+
+<span style="color:#2D9CDB; font-weight:bold;">Technocraphy BD (TBD)</span> is a STEAM Education and Research Center in Bangladesh, offering hands-on, innovative learning experiences to inspire the next generation of problem-solvers.
+
+###  STEAM is an abbreviation for 
+
+Science, Technology, Engineering, Art, and Mathematics. It represents both education and careers in these fields, where kids get to explore and learn through:
+
+💡 Hands-on experiments
+🤖 Coding classes and robotics workshops
+🎨 Art and creativity in learning
+STEAM education can be integrated into after-school programs, weekday sessions, and summer camps to complement regular schooling.
+
+
+
+
+
+
 Technocraphy BD (TBD) is a STEAM Education and Research Center in Bangladesh. 
 
 ###  STEAM is an abbreviation for Science, Technology, Engineering, Art and Mathematics. 
