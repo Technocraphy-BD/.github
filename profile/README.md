@@ -1,7 +1,3 @@
-Here’s the **complete README** with the updated sections, including a short explanation of **STEAM Education** and its key aspects as you mentioned:
-
----
-
 # Welcome to Technocraphy BD 🌟
 
 🚀 **Hands-on STEAM Education for Future Innovators**  
