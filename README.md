@@ -10,6 +10,7 @@ The term **S T E A M** is used to describe both education and careers in those f
 
 STEAM education can be integrated into after-school programs, weekday sessions, and summer camps to complement regular schooling
 
+![top_banner_3d_cut](https://github.com/user-attachments/assets/de03ab43-40ed-4996-9d8c-03785f909415)
 
 
 ##  Features of STEAM Education: 
