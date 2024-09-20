@@ -31,6 +31,8 @@ At **Technocraphy BD**, we are committed to delivering engaging and interactive 
 ### 🧑‍🔬 STEAM Learning with a Fully-Equipped Lab  
 We provide an organized, **laboratory-integrated classroom**, serving batches of **6 kids** to ensure personalized attention. Our environment is designed for immersive learning with:
 
+![TBD_STEAM_KITS_Thumbnails_2](https://github.com/user-attachments/assets/f1c62c83-41f9-4f39-a3b6-20a7c030e5c6)
+
 - Robotics kits, science tools, and educational accessories.
 - **Experiment accessories**: paints, images, tools, and more.
 - Gifts and rewards for milestones.
